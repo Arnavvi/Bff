@@ -1,0 +1,240 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>BFF Quiz !! Test your Friends | Friends Forever</title>
+<link rel="shortcut icon" type="image/png" href="https://friendsforever.world/public/images/FFFAvicon.png">
+  <link rel="canonical" href="https://friendsforever.world/bff-quiz-challenge/play/3741" />
+<meta name="description" content="BFF Quiz Test. Create your own friendship Test, share it with friends and see who can pass your challenge." />
+<meta name="keywords" content="BFF,Quiz,Test,Create,your,own,friendship,Test,share,it,with,friends,and,see,who,can,pass,your,challenge" />
+<meta name="author" content="" />
+<meta property="og:site_name" content="https://friendsforever.world" />
+<meta property="og:url" content="https://friendsforever.world/bff-quiz-challenge/play/3741?utm_source=google_pmax&utm_medium=ffwbff&utm_campaign=country_newis&gad_source=1&gclid=CjwKCAjw9eO3BhBNEiwAoc0-jeauUNOZQSBb8p1W8Vc7sP2984PN2OIKAfBjC-VEjnqMITdw7BRlpBoCTSkQAvD_BwE" />
+<meta property="og:title" content="BFF Quiz !! Test your Friends | Friends Forever" />
+<meta property="og:description" content="BFF Quiz Test. Create your own friendship challenge, share it with friends and see who can pass your challenge." />
+<meta property="snapchat:sticker" content="" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="https://img.holaquiz.com/public/site_content/quiz/ck_editor/images/FFW_SEOBlogs/meta_english.jpg" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="623">
+<meta name="twitter:card" content="photo" />
+<meta property="twitter:url" content="https://friendsforever.world/bff-quiz-challenge/play/3741?utm_source=google_pmax&utm_medium=ffwbff&utm_campaign=country_newis&gad_source=1&gclid=CjwKCAjw9eO3BhBNEiwAoc0-jeauUNOZQSBb8p1W8Vc7sP2984PN2OIKAfBjC-VEjnqMITdw7BRlpBoCTSkQAvD_BwE" />
+<meta name="twitter:title" content="BFF Quiz !! Test your Friends | Friends Forever" />
+<meta name="twitter:image" content="https://img.holaquiz.com/public/site_content/quiz/ck_editor/images/FFW_SEOBlogs/meta_english.jpg" />
+<meta property="twitter:description" content="BFF Quiz Test. Create your own friendship challenge, share it with friends and see who can pass your challenge." />
+<link href="https://friendsforever.world/public/css/font-awesome.css?v=202409020" rel="stylesheet" type="text/css" /><link href="https://friendsforever.world/public/css/bootstrap.css?v=202409020" rel="stylesheet" type="text/css" /><link href="https://friendsforever.world/public/css/common-spinner.css?v=202409020" rel="stylesheet" type="text/css" /><link href="https://friendsforever.world/public/css/friends_forever/style-ffw-blue.css?v=202409020" rel="stylesheet" type="text/css" />    <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+
+
+       
+   
+
+ 
+
+</head>
+
+<body class="play" ng-app="myApp"  ng-cloak>
+
+
+
+
+
+    <nav class="menubar" ng-class="{'show': autoScroll, '': !autoScroll}">
+                <div class="heading menu_btn_logo">
+                    <div class="collapse-icon" ng-click="autoScroll = !autoScroll" data-toggle="collapse" data-target="#menu"><span></span><span></span><span></span> </div> 
+                    <div class="logo"> 
+                        <a  href="https://friendsforever.world/bff-quiz-challenge/">
+                            <!-- <img class="img-reponsive" src=""> -->
+                            <img class="img-reponsive" src="https://img.holaquiz.com/public/site_content/quiz/ck_editor/images/FST_LOGO1.png" alt="">
+                        </a>
+                    </div>
+                              
+                    <div class="language-dropdown">
+                        <img src="https://friendsforever.world/public/images/friends_forever/lang.png">
+                        <select class="lang" name="lang" onchange="changeLang(this)">
+                            <option value='en$$0' selected>English</option><option value='cn$$0'>繁體中文</option><option value='ch$$0'>简体中文</option><option value='id$$0'>Bahasa Indonesia</option><option value='my$$0'>Bahasa Melayu</option><option value='vn$$0'>tiếng Việt</option><option value='th$$0'>ภาษาไทย</option><option value='fr$$0'>Français</option><option value='es$$0'>Español</option><option value='pt$$0'>Português</option><option value='it$$0'>Italiano</option><option value='de$$0'>Deutsch</option><option value='nl$$0'>Nederlands</option><option value='cz$$0'>čeština</option><option value='ar$$0'>عربي</option><option value='il$$0'>עִבְרִית</option><option value='tr$$0'>Türkçe</option><option value='el$$0'>Ελληνικά</option><option value='rom$$0'>Română</option><option value='bg$$0'>Български</option><option value='rs$$0'>Srpsko-hrvatski</option><option value='si$$0'>Slovenščina</option><option value='hu$$0'>Magyar</option><option value='slk$$0'>Slovenčina</option><option value='kr$$0'>한국어</option><option value='jp$$0'>日本語</option><option value='dk$$0'>Dansk</option><option value='fi$$0'>Suomi</option><option value='no$$0'>Norsk</option><option value='se$$0'>svenska</option><option value='ee$$0'>Eesti</option><option value='lv$$0'>Latviešu</option><option value='lt$$0'>lietuvis</option><option value='pl$$0'>Polskie</option><option value='ru$$0'>Русский</option><option value='ua$$0'>українська</option><option value='ir$$0'>فارسی</option><option value='ara$$0'>عربي</option>   
+                        </select>     
+                    </div>
+    
+                    
+                        
+                </div> 
+
+                <ul id="menu"  class="collapse">         
+                    <li><a href="https://friendsforever.world/fr/">Home</a></li><li><a href="https://friendsforever.world/fr/about-us">About Us</a></li><li><a href="https://friendsforever.world/fr/social">Social</a></li><li><a href="https://friendsforever.world/fr/contact-us">Contact Us</a></li>                </ul>
+        
+        
+            </nav>
+            
+            <div class="main_container"> 
+<section class="menu_sec user_inst middle_conatainer" ng-controller="QuizController">
+    <div class="top_ads_sec"> 
+        <div class="top_ads">
+                         
+          
+    <div id="loadingDiv">
+                <div class="loader_ads loader_top_ad">
+                
+            </div>
+                        <div class="quizSaveLoading loading_bar">
+        <img src="https://friendsforever.world/public/images/friends_forever/quiz_save_loading.gif">
+        <p>Stay tuned, your quiz is getting ready.</p>
+    </div>
+     </div> <div id="instContainer">
+    <div class="main_con_sec">
+            <!-- <p class='favourite-color-score text-center play_text_top'></p> -->
+            <h2 class="text-center main_head"></h2> BFF Quiz - Test your Friends </h2>
+        
+            <div class="inst_sec" >
+                <h3>Instructions: </h3>
+                <div class="blue_box">
+                    <div class="inst_list"> 
+                        <ul><li><span class='red'></span>Enter your name.</li><li><span class='yellow'></span>Answer any 10 Questions about yourself.</li> <li><span class='green'></span>Your quiz-link will be ready.</li><li><span class='blue'></span>Share your quiz-link with your friends.</li><li><span class='purple'></span>Your friends will try to guess the right answers.</li><li><span class='red'></span>Check the score of your friends at your Friendboard.</li></ul>                    </div>
+                </div>
+            </div>
+                 
+            <form action="https://friendsforever.world/bff-quiz-challenge/questions/3741?utm_site_source=confirm&utm_site_medium=instructions&utm_site_campaign=user" method="post" id="play_page_form">
+                                            <fieldset >
+                            <div class="bottom_div">
+                                <div class="name_div">
+                                    <input ng-model="userFullName" type="text" id="name" placeholder="Enter your name (eg. Jack)" maxlength="25" name="name" id="name" type="text" value="" >
+
+                                </div>
+                                <div class="error nameMsg" style="display:none;">Please Enter your name</div>
+                                <div class="error error_home atinnameMsg" style="display:none;">@ is Not Allowed</div>
+                                <div class="error error_home curseWordMsg" style="display:none;">Abusive language is not allowed</div>
+
+                            </div>
+                        </fieldset>
+                   
+                    <div class="continue_btn_div">
+                        <input type="submit" class="continue_btn" onclick="return check_play_form()" name="startQuiz" value="Start">                
+                    </div>        
+            </form> 
+    </div>
+    <!--Recover Id password section start-->
+          <!--Recover Id password section end-->
+        <!-- <div class="top_ads_sec"> 
+            <div class="top_ads">
+                 
+            </div>
+        </div> -->
+        <!------->
+                <!----------->
+</div>
+        
+        <div class="foot_ads_sec mb_15"> 
+            <div class="foot_ads">
+                                 <div class="all_ads bottom_ad bottom_headbidding_pubwise_ad">
+                               <div class="container-fluid">
+                        <div class="row">
+                                          
+        
+                        </div>
+                    </div>
+                </div>
+                
+                  <div class="container-fluid">
+                        <div class="row">
+                                    <a style="float:center" href="https://myfriendshipquiz.com/bff-test/play/3417?utm_site_source=custom&utm_site_medium=ad&utm_site_campaign=user"  target='_blank">
+            <img src="https://img.bffforever.com/public/site_content/quiz/ck_editor/images/ads_custom/English_MFQ4.png" alt="Ad" class="img-responsive ad_center">
+        </a> 
+
+                        </div>
+                    </div>
+                </div>
+    
+            </div>
+        </div>
+
+        <!-- blog section start -->
+
+                <div  class="quizs_sec blog_sec play_page_blog" id="play_page_blog_div">
+            <h2><span>Blogs</span></h2>
+            <div class="quizs_block">
+                <div class="blogs_list" id="blogs_listing">
+                                            <div class="quizs_cont_block">
+                            <div class="quizs_img">
+                                <img class="mx_auto img-responsive blog-img" src="https://img.friendsforever.world/public/site_content/quiz/ck_editor/images/Blogs_New/ffw1.jpg">
+                            </div>
+                            <div class="quizs_head_sec">
+                                <p class="blog-title">The Evolution of Gaming Communities: Building Friendships in Online Gaming</p>
+                            </div>
+                            <div class="quizs_cont_sec blog-short-desc">
+                                The Evolution of Gaming Communities: Building Friendships in Online Gaming                            </div>
+                            <div class="quizs_link_btn">
+                                <a class="blog-link" target="_blank" href="https://friendsforever.world/blog/the-evolution-of-gaming-communities-building-friendships-in-online-gaming/2295">Read More</a>
+                            </div>
+                        </div>
+                                            <div class="quizs_cont_block">
+                            <div class="quizs_img">
+                                <img class="mx_auto img-responsive blog-img" src="https://img.friendsforever.world/public/site_content/quiz/ck_editor/images/Blogs_New/ffw2.jpg">
+                            </div>
+                            <div class="quizs_head_sec">
+                                <p class="blog-title">Unlocking Social Skills: The Benefits of Gaming for Friendship Development</p>
+                            </div>
+                            <div class="quizs_cont_sec blog-short-desc">
+                                Unlocking Social Skills: The Benefits of Gaming for Friendship Development                            </div>
+                            <div class="quizs_link_btn">
+                                <a class="blog-link" target="_blank" href="https://friendsforever.world/blog/unlocking-social-skills-the-benefits-of-gaming-for-friendship-development/2297">Read More</a>
+                            </div>
+                        </div>
+                                            <div class="quizs_cont_block">
+                            <div class="quizs_img">
+                                <img class="mx_auto img-responsive blog-img" src="https://img.friendsforever.world/public/site_content/quiz/ck_editor/images/Blogs_New/ffw3.jpg">
+                            </div>
+                            <div class="quizs_head_sec">
+                                <p class="blog-title">Gaming as a Tool for Long-Distance Friendship Maintenance</p>
+                            </div>
+                            <div class="quizs_cont_sec blog-short-desc">
+                                Gaming as a Tool for Long-Distance Friendship Maintenance                            </div>
+                            <div class="quizs_link_btn">
+                                <a class="blog-link" target="_blank" href="https://friendsforever.world/blog/gaming-as-a-tool-for-long-distance-friendship-maintenance/2299">Read More</a>
+                            </div>
+                        </div>
+                                    </div>
+                                    <div class="all_quiz_sec">
+                        <button id="show_less_blogs_btn" class="show_less" style="display:none;" onclick="showLessBlogsAtPlay(this, 'blogs_listing', 'quizs_cont_block', 3, 4)">Show Less</button>
+                        <button id="show_more_blogs_btn" class="show_more" data-nextoffset="3" onclick="showMoreBlogsAtPlay(this, 'blogs_listing', 'quizs_cont_block', 4, 4)">Show More</button>
+                        <img width="30" id="show_more_blogs_loader" style="display:none; margin-left:auto;" alt="loading..." src="https://friendsforever.world/public/images/quiz_save_loading.gif">
+                    </div>
+                            </div>
+        </div>
+                
+        <!--  blog section ends -->
+
+        <!-- blog bottom ads section -->
+        <div class="blog_bottom_ads_sec">
+            <div class="blog_bottom_ads">
+                               
+        
+              </div>
+        </div>
+        
+</section>
+<audio id="submitSound" preload="auto">
+        <source src="/public/sound/mouseclick.mp3" type="audio/mpeg">
+    </audio> 
+  </div>
+
+</div>
+  <footer class="footer_static_ad">
+                
+      <ul>
+          <li><a .href="https://twitter.com/ContactFriends3"  target="_blank"><img src="https://friendsforever.world/public/images/friends_forever/twitter_footer.png" ></a></li>
+          <li class="footer_button_cover"><a href="https://www.instagram.com/friendsforeverworlds/"  target="_blank"><img src="https://friendsforever.world/public/images/friends_forever/instagram_footer.png"></a></li>
+          <li><a href="https://www.facebook.com/Friendsforeverworld1/" target="_blank"><img src="https://friendsforever.world/public/images/friends_forever/fb_footer.png"></a></li>  
+                        
+      </ul>
+               
+      <ul class="footer-links">
+        <li><a href="https://friendsforever.world/fr/privacy-policy">Privacy Policy </a></li><li><a href="https://friendsforever.world/fr/terms-of-use">Terms Of Use </a></li><li><a href="https://friendsforever.world/fr/faq">FAQs </a></li><li><a href="https://friendsforever.world/fr/report" target="_blank">Report </a></li>      </ul>
+              <p> </p>
+       <p>Arnav pvt.ltd 2024 </p>
+
+
+  <script type="text/javascript">
+    var arrJsConfig={"isMobile":true,"SITE_URL":"https:\/\/friendsforever.world","CONTENT_IMAGE_URL":"https:\/\/img.friendsforever.world\/","applicationId":"23","RESULT_QUIZ_URL":"result","SHARE_QUIZ_URL":"share-quiz","SAVE_QUIZ_URL":"save-user-quiz","OTHER_USER_STATS":"other-user-stats","SYNC_QUIZ_URL":"sync-quiz","userStats":"userStats","URL_PREFIX":"fr","CALCULATE_LOVE":"calculate-love","QUIZ_TEST_TYPE_ID":3,"CREATE_QUIZ_URL":"play","DFP_ADREFRESH_TI":0,"DFP_ADREFRESH_PQ":0,"seoUrlType":1,"catUrl":"","NAME_JUNK_WORD_LIST":[],"ENABLE_TM_USER_QUIZ_COMP":1,"ENABLE_TM_UFRIEND_QUIZ_COMP":1,"GTM_EVENT_LIST":{"home":{"select_cat":{"event":"GTMP_SELECT_CAT","status":1},"view_more":{"event":"GTMP_VIEW_MORE","status":1},"quiz_slider":{"event":"GTMP_QUIZ_SLIDER","status":1},"quiz_below_heading":{"event":"GTMP_BELOW_HEADING","status":1},"trivia_below_heading":{"event":"TRIVIA_BELOW_HEADING","status":1}},"catPage":{"select_quiz":{"event":"GTMP_SELECT_QUIZ","status":1}},"play":{"confirm":{"event":"GTMP_CONFIRM","status":1},"country":{"event":"GTMP_COUNTRY","status":1}},"questions":{"change_question":{"event":"GTMP_CHANGE_QUESTION","status":1},"option":{"event":"GTMP_OPTION","status":1},"sync_option":{"event":"GTMP_SYNC_OPTION","status":1}},"share_quiz":{"copy_link":{"event":"GTMP_COPY_LINK","status":1},"whatsapp":{"event":"GTMP_WHATSAPP","status":1},"whatsapp_status":{"event":"GTMP_WHATSAPP_STATUS","status":1},"fb_share":{"event":"GTMP_FB_SHARE","status":1},"snap_share":{"event":"GTMP_SNAP_SHARE","status":1},"messenger_share":{"event":"GTMP_MESSENGER_SHARE","status":1},"twitter_share":{"event":"GTMP_TWITTER_SHARE","status":1},"insta_share":{"event":"GTMP_INSTA_SHARE","status":1},"line_share":{"event":"GTMP_LINE_SHARE","status":1},"telegram_share":{"event":"GTMP_TELEGRAM_SHARE","status":1},"kakao_share":{"event":"GTMP_KAKAO_SHARE","status":1},"bbm_share":{"event":"GTMP_BBM_SHARE","status":1},"vk_share":{"event":"GTMP_VK_SHARE","status":1},"view_scoreboard":{"event":"GTMP_VIEW_SCOREBOARD","status":1}},"user_scoreboard":{"view_answers":{"event":"GTMP_VIEW_ANSWER_USERSIDE","status":1},"copy_link":{"event":"GTMP_COPY_LINK","status":1},"delete_quiz":{"event":"GTMP_DELETE_QUIZ","status":1},"whatsapp":{"event":"GTMP_WHATSAPP","status":1},"whatsapp_status":{"event":"GTMP_WHATSAPP_STATUS","status":1},"fb_share":{"event":"GTMP_FB_SHARE","status":1},"snap_share":{"event":"GTMP_SNAP_SHARE","status":1},"messenger_share":{"event":"GTMP_MESSENGER_SHARE","status":1},"twitter_share":{"event":"GTMP_TWITTER_SHARE","status":1},"insta_share":{"event":"GTMP_INSTA_SHARE","status":1},"line_share":{"event":"GTMP_LINE_SHARE","status":1},"telegram_share":{"event":"GTMP_TELEGRAM_SHARE","status":1},"kakao_share":{"event":"GTMP_KAKAO_SHARE","status":1},"bbm_share":{"event":"GTMP_BBM_SHARE","status":1},"vk_share":{"event":"GTMP_VK_SHARE","status":1},"delete_friend_quiz":{"event":"GTMP_DELETE_FRIEND_QUIZ","status":1}},"sync_quiz":{"sync_option":{"event":"GTMP_SYNC_OPTION","status":1},"get_started":{"event":"GTMP_GET_STARTED","status":1}},"result":{"create_quiz":{"event":"GTMP_CREATE_QUIZ","status":1},"select_lang":{"event":"GTMP_SELECT_LANG","status":1},"view_answers":{"event":"GTMP_VIEW_ANSWER_USERFRIEND","status":1}},"view_stats":{"view_answer_createnewquiz":{"event":"GTMP_VIEW_ANSWER_USERF_CEATENEWQUIZ","status":1},"view_answer_playnewquiz":{"event":"GTMP_VIEW_ANSWER_USER_PLAYNEXTQUIZ","status":1}}},"PAGE":"play","categoryId":3741,"lang":"en","langId":"1","HIDE_SAVE_QUIZ_AD":1,"HIDE_SAVE_QUIZ_TOP_AD":1,"HIDE_SAVE_QUIZ_BOTTOM_AD":1,"HIDE_SAVE_QUIZ_CUST_BOTTOM_AD":1,"enablePushNotification":0,"ENABLE_SINGLE_PAGE":0,"ENABLE_FRIEND_SINGLE_PAGE":0,"HOME_PAGE_ENABLE_FIRST_CAT":
+</script>
+<script type="text/javascript" src="https://friendsforever.world/public/js/jquery.min.js?v=20240628_1"></script><script type="text/javascript" src
